@@ -1,5 +1,5 @@
 {
-  "name": "ijquery.backgroundMove.js",
+  "name": "jquery.backgroundMove.js",
   "version": "0.0.1",
   "description": "This plugin will move your background image on mouse move",
   "main": "index.js",
