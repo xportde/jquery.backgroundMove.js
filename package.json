@@ -1,0 +1,16 @@
+{
+  "name": "ijquery.backgroundMove.js",
+  "version": "0.0.1",
+  "description": "This plugin will move your background image on mouse move",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xportde/jquery.backgroundMove.js.git"
+  },
+  "keywords": ["backgroundMove"],
+  "author": "supunsameera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xportde/jquery.backgroundMove.js/issues"
+  }
+}
